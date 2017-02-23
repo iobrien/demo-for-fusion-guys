@@ -1,0 +1,15 @@
+{
+	"appname": "demo for fusion guys",
+	"scope": "FullAccess",
+	"clientid": "8E5890F0-1E2A-4770-9D57-E2F3B862697A",
+	"buyerid": "ian001",
+	"catalogid": "ian001",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
